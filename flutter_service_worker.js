@@ -4,7 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "android-chrome-512x512.png": "bc8fb92050fdf5a0d4ee0e128c89ff35",
-"assets/AssetManifest.json": "6ea06c6f110f6c064c8b71b1096384d9",
+"assets/AssetManifest.json": "16b67692a0a06910f82bf4263afc60fb",
+"assets/assets/icons/710oVctZ42S._AC_SL1000_.jpg": "822917daa4bbf83b80eeef411d1dcb02",
 "assets/assets/icons/accounts.png": "aeb2028db883e47d4fdfc9407dd8360c",
 "assets/assets/icons/add.png": "4faf23df1f4c18ce3de81fb30c5a4e09",
 "assets/assets/icons/add.svg": "a3bf4124f6ace0b6bfbf936ae9f74be8",
@@ -169,6 +170,7 @@ const RESOURCES = {
 "assets/assets/icons/users-svgrepo-com.svg": "88d6bcc8fab897040bfdc8cc731574e7",
 "assets/assets/icons/users.png": "e3a77c1eb3806934507a4601dd99cff6",
 "assets/assets/icons/vacation.png": "40af4671ce05c60673eb6cf602979ff1",
+"assets/assets/icons/website.s_product_list_default_image_2": "4acdfa77d6598786f792ee32a73e44fc",
 "assets/assets/images/logo%2520(Custom)%2520(Custom).png": "9cf69e3c0fb147ce2a7fd90c98e2b211",
 "assets/assets/images/logo%2520-%2520Copy.png": "d1de67d61a472d3f1adef2feada67fcd",
 "assets/assets/images/logo.png": "4d9bfdb4ed25bfa3f5bdc686981db48b",
@@ -787,9 +789,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cea70aa8b9bcfc1af38c6e55445f7db4",
-"/": "cea70aa8b9bcfc1af38c6e55445f7db4",
-"main.dart.js": "499b314c9dcf5fa939d2fbc6701b1328",
+"index.html": "1a436b3dae89b9e1d5c5b72b3023c529",
+"/": "1a436b3dae89b9e1d5c5b72b3023c529",
+"main.dart.js": "b84f79108307c93eea19db316e165a31",
 "manifest.json": "8e60f28a1b77f34de4fdff6a677f38fb",
 "version.json": "64de2748bdfc6b1b9d3a9d6d0f352a68"
 };
